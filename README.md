@@ -1,52 +1,136 @@
-
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
-
-<h3 align="center">
-  Welcome to Mohamed Reda's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<!-- Header Section with Visual Appeal -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="300" alt="Web Development Banner">
+</p>
 
-- 🏢 I'm a Software Engineer and Full Stack .NET Web Developer
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with .NET Core, JavaScript, Angular,MVC or anything related to web development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my portfolio at https://Mohamed-reda.netlify.app/ to see some of the projects I've worked on.
+<h1 align="center">
+ Hello, I'm Mohamed Reda! 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
 
-### Connect with Me :
 
-<a href="https://www.linkedin.com/in/mhamedreda/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Reda-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://wa.me/+201103981706" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-
-### 🛠 &nbsp;Tech Stack
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)&nbsp;
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-%23121011.svg?style=for-the-badge&logo=Entity%20Framework&logoColor=white)&nbsp;
-![MVC](https://img.shields.io/badge/MVC-5C2D91.svg?style=for-the-badge&logo=MVC&logoColor=white)&nbsp;
-<br>
-<br>&nbsp;
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mhamed-r&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=Mhamed-r&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=Mhamed-r&style=for-the-badge">
-</a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F73D93&center=true&vCenter=true&random=false&width=440&lines=Full-stack+.NET+Developer;Software+Engineer;Always%20learning%20new%20things&font=Fira%20Code" alt="Typing SVG" width="650" />
+</p>
 
 
 
+## 💡 About Me
 
 
+- **🚀 Emerging Software** Engineer specializing in Full Stack .NET development
+- **🌱 Constantly growing** my skills through hands-on projects and continuous learning
+- **💼 Actively building**a strong foundation in software architecture and clean code practices
+- **☕ Fun Fact** I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+- **🌐 Portfolio** [Mohamed-reda.netlify.app](https://Mohamed-reda.netlify.app/)
 
+## 🛠️ Technical Expertise
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="48" height="48" alt=".NET Core" />
+      <br>.NET
+    </td>
+    <td align="center" width="96">
+      <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="48" height="48" alt="Angular" />
+      <br>Angular
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server" />
+      <br>SQL Server
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" alt="Azure" />
+      <br>Azure
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+  </tr>
+</table>
+
+
+## 🔥 What Sets Me Apart
+
+- 💪 **Rapid learner** with a passion for implementing best practices from day one
+- 🧠 **Problem solver** who approaches challenges with creativity and persistence
+- 🤝 **Team player** who values collaboration and clear communication
+- 📈 **Growth mindset** - constantly seeking feedback and opportunities to improve
+
+
+## 📈 Performance Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mhamed-r&show_icons=true&count_private=true&hide=contribs,prs&theme=tokyonight&border_radius=20&bg_color=0D1117" height="180em" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhamed-r&layout=compact&theme=tokyonight&border_radius=20&bg_color=0D1117&hide=html" height="180em" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mhamed-r&theme=tokyonight&hide_border=false&background=0D1117&stroke=0D1117&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA" alt="GitHub Streak" />
+</p>
+
+## 🌟 Currently Learning
+
+- 🔄 CI/CD pipelines and DevOps practices
+- 🧪 Test-driven development (TDD)
+- 🏗️ Design patterns and SOLID principles
+- 🌐 Advanced API development techniques
+
+## 📫 Strategic Connections
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mhamedreda/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/+201103981706">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="mailto:Mhamedreda244@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<!-- Professional Footer -->
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Mhamed-r&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=Mhamed-r&style=for-the-badge&color=blueviolet" alt="Profile Views">
+  </a>
+</p>
+
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=67D9F8&center=true&vCenter=true&random=false&width=440&lines=%20Let's+build+something+exceptional+together!)](https://git.io/typing-svg)
+  
+</div>
